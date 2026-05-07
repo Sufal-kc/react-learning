@@ -18,3 +18,4 @@ export const UserCard = ({id, ...rest})=>{
         </div>
     )
 }
+/*using both operator with the rest operator and normal operator*/

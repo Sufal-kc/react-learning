@@ -6,5 +6,5 @@ export const UserInfo =({name, age, city, email})=>{
             <p>city:{city}</p>
             <p>email:{email}</p>
         </div>
-    )
+    );
 }
