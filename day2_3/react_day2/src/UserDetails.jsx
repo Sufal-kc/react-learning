@@ -27,3 +27,8 @@ export const UserDetails = ({name, isOnline, hideOffline, isPremium, isNewUser, 
         <p>Not available for talking</p>
     </div>)
 }
+/*GENRALLY THERE ARE 4TYPES OF CONDITIONAL RENDERING IN RACT
+1. IF ELSE
+2. TERNARY OPERATOR
+3. AND OPERATOR
+4 VARIABLE BASED RENDERING*/
